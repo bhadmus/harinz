@@ -1,0 +1,5 @@
+url = "https://www.amazon.com"
+search_box = "input#twotabsearchtextbox"
+search_item = "Alpha House Season 1"
+search_button = "[value='Go']"
+search_result = ".s-main-slot.s-result-list.s-search-results.sg-row > div:nth-of-type(1)  .celwidget.slot\=MAIN.template\=SEARCH_RESULTS.widgetId\=search-results .a-link-normal.a-text-normal > .a-color-base.a-size-medium.a-text-normal"
